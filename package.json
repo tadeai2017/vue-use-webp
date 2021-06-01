@@ -1,0 +1,24 @@
+{
+  "name": "vue-use-webp",
+  "version": "1.0.0",
+  "description": "Use webp format image by vue directives.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "webp",
+    "directives"
+  ],
+  "author": "dingdandan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tadeai2017/vue-use-webp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tadeai2017/vue-use-webp/issues"
+  },
+  "homepage": "https://github.com/tadeai2017/vue-use-webp#readme"
+}
